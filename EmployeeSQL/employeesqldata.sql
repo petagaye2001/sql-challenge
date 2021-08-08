@@ -2,7 +2,6 @@ CREATE TABLE departments(
 	 id SERIAL PRIMARY KEY,
 	dept_no VARCHAR(10) NOT NULL,
 	dept_name VARCHAR(10) NOT NULL
-	--PRIMARY KEY (id)
 );
 
 --Create table with department employee info
